@@ -1,10 +1,10 @@
 # 秀泰新辦公室選址儀表板
 
-- `index.html`：儀表板（單一檔案，照片已內嵌，不需其他檔案）
-- `秀泰新辦公室_物件比較分析_20260922.xlsx`：完整 Excel
+網址：https://kevinashowtimes-web.github.io/showtime-office-dashboard/
 
-## 用 GitHub Pages 發佈
-1. GitHub 新建 repository（例如 `showtime-office-dashboard`）
-2. 上傳本資料夾內的檔案（Add file → Upload files）
-3. Settings → Pages → Source 選 `Deploy from a branch`，Branch 選 `main` / `(root)` → Save
-4. 約 1 分鐘後網址為 `https://<你的帳號>.github.io/showtime-office-dashboard/`
+- `index.html`：儀表板（照片已內嵌）
+- `office-analysis.xlsx`：完整 Excel 比較表
+- `JE_list_J01-J18.pdf`：傑森愛華出租物件清單（J01～J18）
+- `JE_J07_honglin_10F-2.pdf`、`JE_J12_zhongding_2F.pdf`、`JE_J15_zhongding_22F.pdf`、`JE_J16_zhongying_bade_2F.pdf`：傑森愛華單筆報表
+
+分級規則：第一優先＝計租坪 ≥ 220 且月總成本 ≤ 44 萬；第二優先＝月總成本 ≤ 48 萬；其餘不建議。
