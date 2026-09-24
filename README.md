@@ -3,6 +3,7 @@
 網址：https://kevinashowtimes-web.github.io/showtime-office-dashboard/
 
 - `index.html`：儀表板（照片已內嵌）
+- `photos.html`：尚揚國際提供 7 案照片相簿（大圖）
 - `office-analysis.xlsx`：完整 Excel 分析（2026-09-24 新條件）
 - `JE2_list_20260923.pdf`：傑森愛華 2026/9/23 出租物件清單報表
 - `JE_list_J01-J18.pdf` 及 `JE_J*.pdf`：傑森愛華 9/22 清單與單筆報表（舊案參考）
